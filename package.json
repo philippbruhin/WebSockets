@@ -1,0 +1,23 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "Playing with websockets, based on [this](https://youtu.be/2Nt-ZrNP22A?si=O1e7JSUyiWchj066) YoutTube tutorial. The repo is using Node in Version `v18.12.1`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippbruhin/WebSockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippbruhin/WebSockets/issues"
+  },
+  "homepage": "https://github.com/philippbruhin/WebSockets#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
